@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import axios from 'axios';
-import Header from './navbar/Header'
+
 
 
 const CLIENT_ID = "e51ab3862b0340e2926f1474db5ca4ca";
